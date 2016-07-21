@@ -82,21 +82,24 @@
             android:layout_width="0dp"
             android:layout_weight="1"
             android:layout_height="wrap_content"
-            android:text="ink"/>
+            android:text="ink stick"
+            android:onClick="showInkStick"/>
 
         <Button
             android:id="@+id/paper_button"
             android:layout_width="0dp"
             android:layout_weight="1"
             android:layout_height="wrap_content"
-            android:text="paper"/>
+            android:text="paper"
+            android:onClick="showPaper"/>
 
         <Button
             android:id="@+id/ink_stone_button"
             android:layout_width="0dp"
             android:layout_weight="1"
             android:layout_height="wrap_content"
-            android:text="ink stone"/>
+            android:text="ink stone"
+            android:onClick="showInkStone"/>
 
     </LinearLayout>
 

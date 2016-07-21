@@ -1,4 +1,16 @@
 <resources>
     <string name="app_name">"Five Things "</string>
     <string name="action_settings">Settings</string>
+    <string name="title_activity_writing_brush">WritingBrush</string>
+    <string name="title_activity_ink_stick">ink_stick</string>
+    <string name="title_activity_paper">paper</string>
+    <string name="title_activity_ink_stone">InkStone</string>
+    <string name="texture_of_writing_brush">
+        Brushes differ greatly in terms of size, texture, material and cost\n\n
+• Stalk: Usually normal bamboo, exotic brushes instead may use materials like gold, silver, jade, ivory, red sandalwood or spotted bamboo.\n\n
+• Hair source: Normally the brush is made from goat, Siberian weasel (黄鼠狼 huángshǔláng, yellow-rat-wolf), pig, mouse, buffalo, wolf and rabbit hair, while exotic ones can be made from tiger, fowl, deer and even human hair (from a baby\'s first haircut, said to bring good fortune while taking the imperial examinations).\n\n
+• Hair texture: soft (軟毫 ruǎnháo), mixed (兼毫 jiānháo) or hard (硬毫 yìngháo) hair. Certain textures are better for writing certain styles than others are.\n\n
+• Hair size: Generally classified as either big (大楷 dàkǎi), medium (中楷 zhōngkǎi) or small (小楷 xiǎokǎi); most calligraphy is written with a medium-sized brush. The smallest brushes are used for very small pieces and for fashioning designs for seals. Medium brushes are the most widely used; wielded by a skilled artist, a medium brush can produce a variety of thicknesses of line, from very thin to fairly thick. The largest brushes are used only for very large pieces.\n\n\n\n
+The hair one chooses to use depends on one\'s needs at the moment, certain kinds of brushes are more suited to certain script styles and individuals than others are. Synthetic hair is not used. Prices vary greatly depending on the quality of the brush, cheap brushes cost less than a US dollar while expensive can cost more than a thousand. Currently, the finest brushes are made in the town of Shanlian, in the district of Huzhou, Zhejiang province.
+    </string>
 </resources>

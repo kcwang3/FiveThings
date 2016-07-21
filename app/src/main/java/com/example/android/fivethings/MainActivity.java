@@ -1,5 +1,7 @@
 package com.example.android.fivethings;
 
+import android.content.Intent;
+import android.net.Uri;
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.Snackbar;
@@ -52,9 +54,45 @@ public class MainActivity extends AppCompatActivity {
         return super.onOptionsItemSelected(item);
     }
 
+    /*
+    public void contnetOfWritingBrush(String subject, String text){
+        subject = "Brief introduction to writing brush.";
+        text = "Ink brushes (simplified Chinese: 毛笔; traditional Chinese: 毛筆; pinyin: máo bǐ) are used in Chinese calligraphy. " +
+                "They are also used in Chinese painting and descendant brush painting styles. " +
+                "The ink brush was invented in China, believed to be around 300 B.C." +
+                " Together with the inkstone, inkstick and Xuan paper, these four writing implements form the Four Treasures of the Study.";
+    }
+    */
+
     public void showWrtingBrush (View view){
-        ImageView writingBrushView = (ImageView)findViewById(R.id.writingbrush);
-        writingBrushView.setImageResource(R.drawable.ink_stick);
+        //ImageView writingBrushView = (ImageView)findViewById(R.id.writingbrush);
+        //writingBrushView.setImageResource(R.drawable.ink_stick);
+
+        /*
+        subject = "Brief introduction to writing brush.";
+        text = "Ink brushes (simplified Chinese: 毛笔; traditional Chinese: 毛筆; pinyin: máo bǐ) are used in Chinese calligraphy. " +
+                "They are also used in Chinese painting and descendant brush painting styles. " +
+                "The ink brush was invented in China, believed to be around 300 B.C." +
+                " Together with the inkstone, inkstick and Xuan paper, these four writing implements form the Four Treasures of the Study.";
+        */
+
+        Intent intent = new Intent(this, WritingBrush.class);
+        startActivity(intent);
+    }
+
+    public void showInkStick (View view){
+        Intent intent = new Intent(this, ink_stick.class);
+        startActivity(intent);
+    }
+
+    public void showPaper (View view){
+        Intent intent = new Intent(this, paper.class);
+        startActivity(intent);
+    }
+
+    public void showInkStone (View view){
+        Intent intent = new Intent(this, InkStone.class);
+        startActivity(intent);
     }
 
 }

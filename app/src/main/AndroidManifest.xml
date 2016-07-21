@@ -18,6 +18,42 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".WritingBrush"
+            android:label="@string/title_activity_writing_brush"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.android.fivethings.MainActivity" />
+        </activity>
+        <activity
+            android:name=".ink_stick"
+            android:label="@string/title_activity_ink_stick"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.android.fivethings.MainActivity" />
+        </activity>
+        <activity
+            android:name=".paper"
+            android:label="@string/title_activity_paper"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.android.fivethings.MainActivity" />
+        </activity>
+        <activity
+            android:name=".InkStone"
+            android:label="@string/title_activity_ink_stone"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.android.fivethings.MainActivity" />
+        </activity>
     </application>
 
 </manifest>
