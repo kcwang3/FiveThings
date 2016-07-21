@@ -45,7 +45,7 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Writing brushes (simplified Chinese: 毛笔; traditional Chinese: 毛筆; pinyin: máo bǐ) are used in Chinese calligraphy. They are also used in Chinese painting and descendant brush painting styles. The writing brush was invented in China, believed to be around 300 B.C. "
+                android:text="Writing brushes (simplified Chinese: 毛笔; traditional Chinese: 毛筆; pinyin: máo bǐ) are used in Chinese calligraphy. They are also used in Chinese painting and descendant brush painting styles. The writing brush was invented in China, believed to be around 300 B.C. \n\n"
                 android:textSize="20sp"
                 android:textColor="#212121"/>
 
@@ -62,7 +62,7 @@
                 android:layout_height="wrap_content"
                 android:textColor="#212121"
                 android:textSize="20sp"
-                android:text="@string/texture_of_writing_brush"/>
+                android:text="@string/types_of_writing_brush"/>
 
         </LinearLayout>
 

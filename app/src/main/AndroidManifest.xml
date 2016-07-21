@@ -54,6 +54,15 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="com.example.android.fivethings.MainActivity" />
         </activity>
+        <activity
+            android:name=".Yong"
+            android:label="@string/title_activity_yong"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.android.fivethings.MainActivity" />
+        </activity>
     </application>
 
 </manifest>

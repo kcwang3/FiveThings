@@ -12,7 +12,7 @@
         android:background="#BBDEFB"
         android:textSize="39sp"
         android:textStyle="bold"
-        android:text="Welcome to my shop." />
+        android:text="Wlcome to my shop." />
 
     <ImageView
         android:id="@+id/treasure"
@@ -108,6 +108,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:textSize="20dp"
-        android:text="Click here for basic information about calligraphy." />
+        android:text="Click here for Eight Principles of Yong."
+        android:onClick="showYong"/>
 
 </LinearLayout>

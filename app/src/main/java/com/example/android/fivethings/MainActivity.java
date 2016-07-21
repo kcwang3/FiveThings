@@ -95,4 +95,9 @@ public class MainActivity extends AppCompatActivity {
         startActivity(intent);
     }
 
+    public void showYong (View view){
+        Intent intent = new Intent(this, Yong.class);
+        startActivity(intent);
+    }
+
 }

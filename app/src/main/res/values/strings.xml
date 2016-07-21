@@ -5,12 +5,87 @@
     <string name="title_activity_ink_stick">ink_stick</string>
     <string name="title_activity_paper">paper</string>
     <string name="title_activity_ink_stone">InkStone</string>
-    <string name="texture_of_writing_brush">
+    <string name="types_of_writing_brush">
         Brushes differ greatly in terms of size, texture, material and cost\n\n
 • Stalk: Usually normal bamboo, exotic brushes instead may use materials like gold, silver, jade, ivory, red sandalwood or spotted bamboo.\n\n
 • Hair source: Normally the brush is made from goat, Siberian weasel (黄鼠狼 huángshǔláng, yellow-rat-wolf), pig, mouse, buffalo, wolf and rabbit hair, while exotic ones can be made from tiger, fowl, deer and even human hair (from a baby\'s first haircut, said to bring good fortune while taking the imperial examinations).\n\n
 • Hair texture: soft (軟毫 ruǎnháo), mixed (兼毫 jiānháo) or hard (硬毫 yìngháo) hair. Certain textures are better for writing certain styles than others are.\n\n
-• Hair size: Generally classified as either big (大楷 dàkǎi), medium (中楷 zhōngkǎi) or small (小楷 xiǎokǎi); most calligraphy is written with a medium-sized brush. The smallest brushes are used for very small pieces and for fashioning designs for seals. Medium brushes are the most widely used; wielded by a skilled artist, a medium brush can produce a variety of thicknesses of line, from very thin to fairly thick. The largest brushes are used only for very large pieces.\n\n\n\n
-The hair one chooses to use depends on one\'s needs at the moment, certain kinds of brushes are more suited to certain script styles and individuals than others are. Synthetic hair is not used. Prices vary greatly depending on the quality of the brush, cheap brushes cost less than a US dollar while expensive can cost more than a thousand. Currently, the finest brushes are made in the town of Shanlian, in the district of Huzhou, Zhejiang province.
+• Hair size: Generally classified as either big (大楷 dàkǎi), medium (中楷 zhōngkǎi) or small (小楷 xiǎokǎi); most calligraphy is written with a medium-sized brush. The smallest brushes are used for very small pieces and for fashioning designs for seals. Medium brushes are the most widely used; wielded by a skilled artist, a medium brush can produce a variety of thicknesses of line, from very thin to fairly thick. The largest brushes are used only for very large pieces.\n\n
+The hair one chooses to use depends on one\'s needs at the moment, certain kinds of brushes are more suited to certain script styles and individuals than others are. Synthetic hair is not used. Prices vary greatly depending on the quality of the brush, cheap brushes cost less than a US dollar while expensive can cost more than a thousand. Currently, the finest brushes are made in the town of Shanlian, in the district of Huzhou, Zhejiang province.\n\n
     </string>
+
+    <string name="introduction_to_ink_stick">
+        Inksticks (Chinese: 墨 About this sound Mò; Japanese: 墨 Sumi; Korean: 먹 Meok) or Ink Cakes are a type of solid ink (India ink) used traditionally in several East Asian cultures for calligraphy and brush painting.
+        Inksticks are made mainly of soot and animal glue, sometimes with incense or medicinal scents added.
+        To make ink from the inkstick, it has to be continuously ground against an inkstone with a small quantity of water to produce a dark liquid which is then applied with an ink brush.
+        Artists and calligraphists may vary the thickness of the resulting ink according to their preferences by reducing or increasing the intensity and time of ink grinding.
+        \n\n
+        Along with the inkstone, ink brush, and paper, the inkstick is considered in one of the Four Treasures of the Study of classical Chinese literary culture.\n\n
+
+    </string>
+
+    <string name="types_of_ink_stick">
+        There are many types of inksticks that are produced. The artist or calligrapher may use a specific ink for a special purpose or to create special effects.\n\n
+        • Oil soot ink: made using the soot of burnt tung or various other oils. There is more glue in this type of ink than the other kinds so does not spread as much. Gives a warm black colour. It is good as a general purpose painting and calligraphy ink.\n\n
+        • Pine soot ink: made from the soot of pines. Has less glue so spreads more than oil soot inks. Gives a blueish-black colour. It is good for calligraphy and meticulous style painting.\n\n
+        • Lacquer soot ink: made from the soot of dried raw lacquer. Has a shiny appearance and is most suitable for painting.\n\n
+        • Charcoal ink: made using standard wood charcoal. It has the least amount of glue and so spreads on paper more than other inks. Mainly used for freestyle painting and calligraphy.\n\n
+        • Blueish ink (青墨): oil or pine soot that has been mixed with other ingredients to produce a subtle blueish-black ink. Mainly used for calligraphy.\n\n
+        • Coloured ink: oil soot ink that has been blended with pigments to create a solid ink of colour. Most popular is cinnabar ink which was reportedly used by emperors.\n\n
+        • Medical ink: ink produced by mixing standard ink with herbal medicines which can be ground and taken internally.\n\n
+        • Collectors ink: ink that is highly decorative and in odd shapes that are meant for collecting rather than actual use.\n\n
+        • Custom ink: ink that has been commissioned by an artist who may want a specific type of ink to suit their needs.\n\n
+        Within each type of ink, there maybe many variations regarding additional ingredients and fineness of the soot. The artist would select the best type of ink that is suitable for their needs whether it be discipline, what paper is used, etc.\n\n
+    </string>
+
+    <string name="introduction_to_paper">
+        Xuan paper (xuanzhi simplified Chinese: 宣纸; traditional Chinese: 宣紙; pinyin: xuānzhǐ), or Shuen paper or rice paper, is a kind of paper originating in ancient China used for writing and painting. Xuan paper is renowned for being soft and fine textured, suitable for conveying the artistic expression of both Chinese calligraphy and painting.\n\n
+    </string>
+
+    <string name="origin_of_paper">
+        Xuan paper was first mentioned in ancient Chinese books Notes of Past Famous Paintings and New Book of Tang. It was originally produced in the Tang dynasty in Jing County, which was under the jurisdiction of Xuan Prefecture (Xuanzhou), hence the name Xuan paper. By the Song dynasty, the paper producing industries in Huizhou and Chizhou were gradually transferred to Jing County.\n\n
+    </string>
+
+    <string name="classification_of_paper">
+        Due to different producing methods, Xuan paper can be classified into Shengxuan, Shuxuan, and Banshuxuan.
+        Shengxuan (literally \"Raw Xuan\"), which is not specially processed, excels in its ability to absorb water, causing the ink on it to blur.
+        Shuxuan (literally \"Ripe Xuan\"), however, has Potassium alum worked into it during production, which results in a stiffer texture, a reduced ability to absorb water, and less resistance to shear stress (meaning that it can be torn much more easily).
+        This feature makes Shuxuan more suitable for Gongbi rather than Xieyi. Banshuxuan (literally \"Half-ripe Xuan\") has intermediate absorbability, between Shengxuan and Shuxuan.\n\n
+    </string>
+    
+    <string name="features_of_paper">
+        Xuan paper features great tensile strength, smooth surface, pure and clean texture and clean stroke, great resistance to crease, corrosion, moth and mold. The majority of ancient Chinese books and paintings by famous painters that survived till today are well preserved on Xuan paper. Xuan paper won the Golden Award at the Panama International Exposition in 1915. Xuan paper was used to make scrolls.\n\n
+    </string>
+
+    <string name="material_and_production_of_paper">
+        The material Xuan paper uses is closely related to the geography of Jing County. The bark of Pteroceltis tatarinowii, a common species of elm in the area, was used as the main material to produce Xuan paper. Rice, along with several other materials, was subsequently added to the recipe in the Song and Yuan Dynasties. Bamboo and mulberry also began to be used to produce xuan paper around that time.\n\n
+        The production of Xuan paper can be loosely described as an 18-step process, and a detailed account would involve over a hundred. Some paper makers have invented steps which have been kept secret from others. The process includes steaming and bleaching the bark of Pteroceltis tatarinowii, as well as the addition of a variety of juices.\n\n
+    </string>
+    
+    <string name="introduction_to_ink_stone">
+        An inkstone (simplified Chinese: 砚; traditional Chinese: 硯; pinyin: About this sound yàn) (simplified Chinese: 砚台; traditional Chinese: 硯臺; pinyin: yàn tái) (Japanese: 硯 suzuri) (Korean: 벼루 byoru) is a stone mortar for the grinding and containment of ink.\n\n
+        In addition to stone, inkstones are also manufactured from clay, bronze, iron, and porcelain. The device evolved from a rubbing tool used for rubbing dyes dating around 6000 to 7000 years ago.\n\n
+    </string>
+
+    <string name="usage_of_ink_stone">
+        Traditional East Asian ink is solidified into inksticks. Usually, some water is applied onto the inkstone (by means of a dropper to control the amount of water) before the bottom end of the inkstick is placed on the grinding surface and then gradually ground to produce the ink. More water is gradually added during the grinding process to increase the amount of ink produced, the excess flowing down into the reservoir of the inkstone where it will not evaporate as quickly as on the flat grinding surface, until enough ink has been produced for the purpose in question. The Chinese grind their ink in a circular motion with the end flat on the surface whilst the Japanese push one edge of the end of the inkstick back and forth.\n\n
+        Water can be stored in a water-holding cavity on the inkstone itself, as was the case for many Song Dynasty (960-1279) inkstones. The water-holding cavity or water reservoir in time became an ink reservoir on later inkstones. Water was usually kept in a ceramic container and sprinkled on the inkstone. The inkstone, together with the ink brush, inkstick and Xuan paper, are the four writing implements traditionally known as the Four Treasures of the Study.\n\n
+    </string>
+
+    <string name="four_famous_ink_stone">
+        For serious calligraphers and painters, a good inkstone is as important as the quality of the ink. An inkstone will affect the quality and texture of the ink that is ground upon it. Four kinds of Chinese inkstones are especially noted in inkstone art history and are popularly known as the \"Four Famous Inkstones\".\n\n
+        • Duan inkstones (simplified Chinese: 端砚; traditional Chinese: 端硯; pinyin: Duānyàn) are produced in Zhaoqing, Guangdong Province, and got its name from Duan Prefecture that governed the city during the Tang Dynasty. Duan stone is a volcanic tuff, commonly of a purple to a purple-red color. There are various distinctive markings, due to various rock materials imbedded in the stone, that create unique designs and stone eyes (inclusions) which were traditionally valued in China. A green variety of the stone was mined in the Song Dynasty. Duan inkstones are carefully categorized by the mines (k\'eng) from which the raw stone was excavated.Particular mines were open only for discrete periods in history. For example, the Mazukeng mine was originally opened in the Qianlong reign (1736-1795), although reopened in modern times.\n\n
+        • She inkstones (simplified Chinese: 歙砚; traditional Chinese: 歙硯; pinyin: Shèyàn) come from She County (Anhui Province) and Wuyuan County (Jiangxi Province). Both counties were under jurisdiction of the ancient She Prefecture of Huizhou during the Tang Dynasty when the She inkstone was first made. This stone is a variety of slate and like Duan stone is categorized by the various mines from which the stone was obtained historically. It has a black color and also displays a variety of gold-like markings. She inkstones were first used during the Tang Dynasty.\n\n
+        • Tao(he) inkstones (simplified Chinese: 洮(河)砚; traditional Chinese: 洮(河)硯; pinyin: Táo(hé)yàn) are made from the stones found at the bottom of the Tao River in Gansu Province. These inkstones were first used during the Song Dynasty and became rapidly desired. It bears distinct markings such as bands of ripples with varying shades. The stone is crystalline and looks like jade. These stones have become increasingly rare and are difficult to find. It can easily be confused with a green Duan stone, but can be distinguished by its crystalline nature.\n\n
+        • Chengni inkstones (simplified Chinese: 澄泥砚; traditional Chinese: 澄泥硯; pinyin: Chéngníyàn) are ceramic-manufactured inkstones. This process began in the Tang Dynasty and is said to have originated in Luoyang, Henan.\n\n
+    </string>
+    <string name="title_activity_yong">Yong</string>
+    
+    <string name="introduction_to_yong">
+        The Eight Principles of Yong explain how to write eight common strokes in regular script which are found all in the one character, 永 (pinyin: yǒng, \"forever\", \"permanence\"). It was traditionally believed that the frequent practice of these principles as a beginning calligrapher could ensure beauty in one\'s writing.\n\n
+        The Eight Principles are influenced by the earlier Seven Powers (七勢) by Lady Wei Shuo (衛鑠) of Eastern Jin. Publications on the Principles include:\n\n
+        • The Praise to the Eight Principles of \"Yong\" (永字八法頌) by Liu Zongyuan (柳宗元) of the Tang Dynasty.\n\n
+        • Explanations to the Eight Principles of \"Yong\" (永字八法解) by Li Puguang (李溥光) of the Yuan Dynasty. Lǐ provided two-character metaphorical names.\n\n\n\n
+    </string>
+
 </resources>
