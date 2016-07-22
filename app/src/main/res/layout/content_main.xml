@@ -109,7 +109,15 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:textSize="20dp"
-        android:text="Click here for Eight Principles of Yong."
+        android:text="Eight Principles of Yong."
         android:onClick="showYong"/>
+
+    <Button
+        android:id="@+id/script_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:text="Different scripts in calligraphy."
+        android:onClick="showScript"/>
 
 </LinearLayout>

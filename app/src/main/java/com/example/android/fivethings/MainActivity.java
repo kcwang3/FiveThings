@@ -100,4 +100,9 @@ public class MainActivity extends AppCompatActivity {
         startActivity(intent);
     }
 
+    public void showScript (View view){
+        Intent intent = new Intent(this, script.class);
+        startActivity(intent);
+    }
+
 }

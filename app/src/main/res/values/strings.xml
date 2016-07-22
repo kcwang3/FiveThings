@@ -87,5 +87,35 @@ The hair one chooses to use depends on one\'s needs at the moment, certain kinds
         • The Praise to the Eight Principles of \"Yong\" (永字八法頌) by Liu Zongyuan (柳宗元) of the Tang Dynasty.\n\n
         • Explanations to the Eight Principles of \"Yong\" (永字八法解) by Li Puguang (李溥光) of the Yuan Dynasty. Lǐ provided two-character metaphorical names.\n\n\n\n
     </string>
+    <string name="title_activity_script">script</string>
+
+    <string name="introduction_to_seal_script">
+        The seal script (often called "small seal" script) is the formal script of the Qín system of writing, which evolved during the Eastern Zhōu dynasty in the state of Qín and was imposed as the standard in areas Qín gradually conquered. Although some modern calligraphers practice the most ancient oracle bone script as well as various other scripts older than seal script found on Zhōu dynasty bronze inscriptions, seal script is the oldest style that continues to be widely practiced.\n\n
+        Today, this style of Chinese writing is used predominantly in seals, hence the English name. Although seals (name chops), which make a signature-like impression, are carved in wood, jade and other materials, the script itself was originally written with brush and ink on bamboo books and other media, just like all other ancient scripts.\n\n
+        Most people today cannot read the seal script, so it is considered an ‘ancient’ script, generally not used outside the fields of calligraphy and carved seals. However, because seals act like legal signatures in the cultures of China, Japan, Korea, and Vietnam, and because vermillion seal impressions are a fundamental part of the presentation of works of art such as calligraphy and painting, seals and therefore seal script remain ubiquitous.\n\n
+    </string>
+
+    <string name="introduction_to_clerical_script">
+        The clerical script (often simply termed lìshū; and sometimes called \"official\", \"draft\", or \"scribal\" script) is popularly thought to have developed in the Hàn dynasty and to have come directly from seal script, but recent archaeological discoveries and scholarship indicate that it instead developed from a roughly executed and rectilinear popular or ‘vulgar’ variant of the seal script as well as from seal script itself, resulting first in a ‘proto-clerical’ version in the Warring States period to Qin dynasty, which then developed into clerical script in the early Western Hàn dynasty, and matured stylistically thereafter.\n\n
+        Clerical script characters are often \"flat\" in appearance, being wider than the preceding seal script and the modern standard script, both of which tend to be taller than they are wide; some versions of clerical are square, and others are wider. Compared with the preceding seal script, forms are strikingly rectilinear; however, some curvature and some seal script influence often remains. Seal script tended towards uniformity of stroke width, but clerical script gave the brush freer rein, returning to the variations in width seen in early Zhōu brushwork. Most noticeable is the dramatically flared tail of one dominant horizontal or downward-diagonal stroke, especially that to the lower right. This characteristic stroke has famously been called \'silkworm head and wild goose tail\' (蠶頭雁尾 cántóu yànwěi）in Chinese) due to its distinctive shape.\n\n
+        The archaic clerical script or ‘proto-clerical’ of the Chinese Warring States period to Qín Dynasty and early Hàn Dynasty can often be difficult to read for a modern East Asian person, but the mature clerical script of the middle to late Hàn dynasty is generally legible. Modern calligraphic works and practical applications (e.g., advertisements) in the clerical script tend to use the mature, late Hàn style, and may also use modernized character structures, resulting in a form as transparent and legible as regular (or standard) script. The clerical script remains common as a typeface used for decorative purposes (for example, in displays), but other than in artistic calligraphy, adverts and signage, it is not commonly written.\n\n
+    </string>
+
+    <string name="introduction_to_semi_cursive_script">
+        The semi-cursive script (also called \"running\" script, 行書) approximates normal handwriting in which strokes and, more rarely, characters are allowed to run into one another. In writing in the semi-cursive script, the brush leaves the paper less often than in the regular script. Characters appear less angular and rounder.\n\n
+        In general, an educated person in China or Japan can read characters written in the semi-cursive script with relative ease, but may have occasional difficulties with certain idiosyncratic shapes.\n\n
+    </string>
+
+    <string name="introduction_to_cursive_script">
+        The cursive script (sometimes called \"grass script\", 草書) is a fully cursive script, with drastic simplifications requiring specialized knowledge; even a person who can read the semi-cursive script cannot be expected to read the cursive script without training.\n\n
+        Entire characters may be written without lifting the brush from the paper at all, and characters frequently flow into one another. Strokes are modified or eliminated completely to facilitate smooth writing and to create a beautiful, abstract appearance. Characters are highly rounded and soft in appearance, with a noticeable lack of angular lines. Due to the drastic simplification and ligature involved, this script is not considered particularly legible to the average person, and thus has never achieved widespread use beyond the realm of literati calligraphers.\n\n
+        The cursive script is the source of Japanese hiragana, as well as many modern simplified forms in Simplified Chinese characters and Japanese shinjitai.\n\n
+    </string>
+
+    <string name="introduction_to_regular_script">
+        The regular script (often called \"standard\" script or simply ‘kǎishū’ 楷书) is one of the last major calligraphic styles to develop, emerging between the Chinese Hàn dynasty and Three Kingdoms period, gaining dominance in the Southern and Northern Dynasties, and maturing in the Táng Dynasty. It emerged from a neatly written, early period semi-cursive form of clerical script. As the name suggests, the regular script is \"regular\", with each of the strokes placed slowly and carefully, the brush lifted from the paper and all the strokes distinct from each other.\n\n
+        The regular script is also the most easily and widely recognized style, as it is the script to which children in East Asian countries and beginners of East Asian languages are first introduced. For learners of calligraphy, the regular script is usually studied first to give students a feel for correct placement and balance, as well as to provide a proper base for the other, more flowing styles.\n\n
+        In the regular script samples picture, the characters in the left column are in Traditional Chinese while those to the right are in Simplified Chinese.\n\n
+    </string>
 
 </resources>

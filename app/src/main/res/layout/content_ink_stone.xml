@@ -25,10 +25,10 @@
             android:text="Brief introduction to ink stone." />
 
         <ImageView
-            android:src="@drawable/inkstone"
-            android:layout_width="0dp"
-            android:layout_weight="1"
-            android:layout_height="75dp" />
+        android:src="@drawable/inkstone"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="75dp" />
 
     </LinearLayout>
 
